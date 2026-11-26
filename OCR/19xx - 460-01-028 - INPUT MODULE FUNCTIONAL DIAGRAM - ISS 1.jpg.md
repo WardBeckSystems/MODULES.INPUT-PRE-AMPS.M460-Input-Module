@@ -34,7 +34,7 @@ Functional diagram of the M460M input module, cropped.
 - **Title block:** (216, 49)–(342, 73) mm: WBS WARD-BECK systemb
 - **Wiring (first pass):** 148 connected wire groups from 491 runs; labelled ends: 85 mm → DIRECT; 50 mm → FOLDBACK; 46 mm → REVERB; 34 mm → LEFT, PAN; 32 mm → boostER, AMPLIFIER
 
-Every curve, box, word and wire group: [19xx - 460-01-028 - INPUT MODULE FUNCTIONAL DIAGRAM - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20460-01-028%20-%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 460-01-028 - INPUT MODULE FUNCTIONAL DIAGRAM - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 460-01-028 - INPUT MODULE FUNCTIONAL DIAGRAM - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20460-01-028%20-%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 460-01-028 - INPUT MODULE FUNCTIONAL DIAGRAM - ISS 1 (traced).dxf`).
 
 ## Full text
 

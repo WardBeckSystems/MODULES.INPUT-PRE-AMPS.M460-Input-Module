@@ -35,7 +35,7 @@ Functional diagram of the M460M input module.
 - **Title block:** (343, 32)–(432, 48) mm: WBS WARD-BECK Systemb
 - **Wiring (first pass):** 191 connected wire groups from 599 runs, 2 dotted junctions; labelled ends: 69 mm → LIF ER; 24 mm → PA4SE; 22 mm → cohtaol; 22 mm → cohtaol, Richt; 19 mm → PA4SE
 
-Every curve, box, word and wire group: [19xx - 460-01-028 - INPUT MODULE FUNCTIONAL DIAGRAM - ISS 1 (2) (traced).json](../SCHEMATICS/19xx%20-%20460-01-028%20-%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20ISS%201%20(2)%20(traced).json) (the CAD file: `19xx - 460-01-028 - INPUT MODULE FUNCTIONAL DIAGRAM - ISS 1 (2) (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 460-01-028 - INPUT MODULE FUNCTIONAL DIAGRAM - ISS 1 (2) (traced).json](../SCHEMATICS/19xx%20-%20460-01-028%20-%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `19xx - 460-01-028 - INPUT MODULE FUNCTIONAL DIAGRAM - ISS 1 (2) (traced).dxf`).
 
 ## Full text
 

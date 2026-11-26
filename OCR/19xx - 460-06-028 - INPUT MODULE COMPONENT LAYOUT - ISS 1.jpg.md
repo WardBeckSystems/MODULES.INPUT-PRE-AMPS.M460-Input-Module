@@ -33,7 +33,7 @@ M460M input module component layout, cropped.
 - **Words (OCR):** 14 in 12 lines: S0i · Side · 620 · I0-01| · 10-011 · WBS WARD-BECK SYBTEMs · M4bom · INPUT · MODULE · COMPONENT LAYOUT · 460-06-028 · ISS.1
 - **Title block:** (213, 46)–(340, 71) mm: WBS WARD-BECK SYBTEMs
 
-Every curve, box, word and wire group: [19xx - 460-06-028 - INPUT MODULE COMPONENT LAYOUT - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20460-06-028%20-%20INPUT%20MODULE%20COMPONENT%20LAYOUT%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 460-06-028 - INPUT MODULE COMPONENT LAYOUT - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 460-06-028 - INPUT MODULE COMPONENT LAYOUT - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20460-06-028%20-%20INPUT%20MODULE%20COMPONENT%20LAYOUT%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 460-06-028 - INPUT MODULE COMPONENT LAYOUT - ISS 1 (traced).dxf`).
 
 ## Full text
 

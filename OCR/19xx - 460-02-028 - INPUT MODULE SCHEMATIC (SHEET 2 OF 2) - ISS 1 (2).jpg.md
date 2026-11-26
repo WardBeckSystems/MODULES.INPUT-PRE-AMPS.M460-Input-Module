@@ -35,7 +35,7 @@ M460M input module schematic sheet 2 of 2.
 - **Title block:** (341, 30)–(432, 46) mm: WBS · WARD-Beck bybtemB
 - **Wiring (first pass):** 145 connected wire groups from 819 runs, 2 dotted junctions; labelled ends: 76 mm → SELLCTCa; 8 mm → RESiSTOPS, cipicitors
 
-Every curve, box, word and wire group: [19xx - 460-02-028 - INPUT MODULE SCHEMATIC (SHEET 2 OF 2) - ISS 1 (2) (traced).json](../SCHEMATICS/19xx%20-%20460-02-028%20-%20INPUT%20MODULE%20SCHEMATIC%20(SHEET%202%20OF%202)%20-%20ISS%201%20(2)%20(traced).json) (the CAD file: `19xx - 460-02-028 - INPUT MODULE SCHEMATIC (SHEET 2 OF 2) - ISS 1 (2) (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 460-02-028 - INPUT MODULE SCHEMATIC (SHEET 2 OF 2) - ISS 1 (2) (traced).json](../SCHEMATICS/19xx%20-%20460-02-028%20-%20INPUT%20MODULE%20SCHEMATIC%20%28SHEET%202%20OF%202%29%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `19xx - 460-02-028 - INPUT MODULE SCHEMATIC (SHEET 2 OF 2) - ISS 1 (2) (traced).dxf`).
 
 ## Full text
 

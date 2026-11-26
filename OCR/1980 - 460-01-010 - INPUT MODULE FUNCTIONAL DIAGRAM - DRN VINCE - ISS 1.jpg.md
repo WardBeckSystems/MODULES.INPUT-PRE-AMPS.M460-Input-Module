@@ -36,7 +36,7 @@ Wiki page: [M460](../../../../PAGES/M460.md)
 - **Title block:** (139, 5)–(420, 57) mm: IsS MOD  CKD_ · USED ON · MATL · WBS WARD BECK systeMs LTD · DRNVINCE · M46OL · DATE · FIMISH · INPUT MODULE · CKD: Ay · FUNCTIONAL DIAGRAM · [SCALE · TOLS · 460 01 - 010 · ISS_
 - **Wiring (first pass):** 164 connected wire groups from 381 runs; labelled ends: 248 mm → 8-109, ON, FADER, (-I5d8); 127 mm → Right Output, CONTROL; 61 mm → DIRECT Output, 10 dBm, INSERT; 50 mm → INSERT, 8*109A; 49 mm → PHASE, ON
 
-Every curve, box, word and wire group: [1980 - 460-01-010 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN VINCE - ISS 1 (traced).json](../SCHEMATICS/1980%20-%20460-01-010%20-%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20VINCE%20-%20ISS%201%20(traced).json) (the CAD file: `1980 - 460-01-010 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN VINCE - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1980 - 460-01-010 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN VINCE - ISS 1 (traced).json](../SCHEMATICS/1980%20-%20460-01-010%20-%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20VINCE%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1980 - 460-01-010 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN VINCE - ISS 1 (traced).dxf`).
 
 ## Full text
 

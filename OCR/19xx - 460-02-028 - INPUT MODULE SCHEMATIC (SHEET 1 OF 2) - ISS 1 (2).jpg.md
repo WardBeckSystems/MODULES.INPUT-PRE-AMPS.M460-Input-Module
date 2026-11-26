@@ -34,7 +34,7 @@ M460M input module schematic sheet 1 of 2.
 - **Title block:** (336, 28)–(429, 45) mm: WBS WARD-BECK BybtemB
 - **Wiring (first pass):** 211 connected wire groups from 1,326 runs; labelled ends: 150 mm → KicPAD; 124 mm → EQUALIZFA; 121 mm → PHJSS; 100 mm → 8.8/6, cut/BoOsT; 100 mm → 22/25
 
-Every curve, box, word and wire group: [19xx - 460-02-028 - INPUT MODULE SCHEMATIC (SHEET 1 OF 2) - ISS 1 (2) (traced).json](../SCHEMATICS/19xx%20-%20460-02-028%20-%20INPUT%20MODULE%20SCHEMATIC%20(SHEET%201%20OF%202)%20-%20ISS%201%20(2)%20(traced).json) (the CAD file: `19xx - 460-02-028 - INPUT MODULE SCHEMATIC (SHEET 1 OF 2) - ISS 1 (2) (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 460-02-028 - INPUT MODULE SCHEMATIC (SHEET 1 OF 2) - ISS 1 (2) (traced).json](../SCHEMATICS/19xx%20-%20460-02-028%20-%20INPUT%20MODULE%20SCHEMATIC%20%28SHEET%201%20OF%202%29%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `19xx - 460-02-028 - INPUT MODULE SCHEMATIC (SHEET 1 OF 2) - ISS 1 (2) (traced).dxf`).
 
 ## Full text
 

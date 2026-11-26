@@ -39,7 +39,7 @@ Wiki page: [M460](../../../../PAGES/M460.md)
 - **Title block:** (140, 4)–(383, 57) mm: ISS MOD [CKD] · USED ON · WBS WARD-BECK BySTEMS LTD- · 3540 · DRN DNM · M46O B · FFINISH · DATE DEC 76 · INPUT · CKD_ · FUNCTIONAL DIAGRAM · SCALE · 460 = 01-003 · TOLs
 - **Wiring (first pass):** 173 connected wire groups from 370 runs; labelled ends: 121 mm → EONTROL; 105 mm → PRE / Post; 79 mm → INSERT JACKS PHASE, ON; 66 mm → REVERB, FB1, FB2, FB3; 66 mm → SOLO
 
-Every curve, box, word and wire group: [1976 - 460-01-003 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN DNM - ISS 2 (traced).json](../SCHEMATICS/1976%20-%20460-01-003%20-%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20DNM%20-%20ISS%202%20(traced).json) (the CAD file: `1976 - 460-01-003 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN DNM - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 460-01-003 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN DNM - ISS 2 (traced).json](../SCHEMATICS/1976%20-%20460-01-003%20-%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20DNM%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1976 - 460-01-003 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN DNM - ISS 2 (traced).dxf`).
 
 ## Full text
 

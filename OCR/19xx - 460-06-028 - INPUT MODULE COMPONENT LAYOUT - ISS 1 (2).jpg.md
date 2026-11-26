@@ -33,7 +33,7 @@ M460M input module component layout.
 - **Words (OCR):** 9 in 7 lines: WBS WAAD-BECK 9ybteMS · M46om · INPUT MODULE · COMPONENT · LAYOUT · B 460-06-028 · ISS.
 - **Title block:** (333, 34)–(432, 51) mm: WBS WAAD-BECK 9ybteMS
 
-Every curve, box, word and wire group: [19xx - 460-06-028 - INPUT MODULE COMPONENT LAYOUT - ISS 1 (2) (traced).json](../SCHEMATICS/19xx%20-%20460-06-028%20-%20INPUT%20MODULE%20COMPONENT%20LAYOUT%20-%20ISS%201%20(2)%20(traced).json) (the CAD file: `19xx - 460-06-028 - INPUT MODULE COMPONENT LAYOUT - ISS 1 (2) (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 460-06-028 - INPUT MODULE COMPONENT LAYOUT - ISS 1 (2) (traced).json](../SCHEMATICS/19xx%20-%20460-06-028%20-%20INPUT%20MODULE%20COMPONENT%20LAYOUT%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `19xx - 460-06-028 - INPUT MODULE COMPONENT LAYOUT - ISS 1 (2) (traced).dxf`).
 
 ## Full text
 
