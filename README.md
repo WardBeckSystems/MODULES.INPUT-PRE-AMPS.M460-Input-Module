@@ -1,17 +1,17 @@
-# M460 · Input Pre Amps
+# M460 Input Module · Input Pre Amps
 
 Ward-Beck Systems M460, 1976|9. Wiki page: [M460 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M460.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 56 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 4 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 3 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 57 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 8 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 4 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 17 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 35 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 13 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 33 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -29,22 +29,11 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKV3hIRjZzT0pwUEk/view?resourcekey=0-b0qiTALtvx4aWID7CLDwgg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKV3hIRjZzT0pwUEk&resourcekey=0-b0qiTALtvx4aWID7CLDwgg" width="240" alt="1976 - M460 - Racked - 7.jpg"></a><br><sub>1976|9 · Racked - 7</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKek5pa1FlNC1FYWM/view?resourcekey=0-jVuiZw6TRGmcKG9tKliiqQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKek5pa1FlNC1FYWM&resourcekey=0-jVuiZw6TRGmcKG9tKliiqQ" width="240" alt="1976 - M460 - Racked - 8.jpg"></a><br><sub>1976|9 · Racked - 8</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQ0RNSTJaSlROam8/view?resourcekey=0-Kc5mnmUA_idkaNXGzBGrWQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQ0RNSTJaSlROam8&resourcekey=0-Kc5mnmUA_idkaNXGzBGrWQ" width="240" alt="1976 - M460 - Racked-WBS-M460.jpg"></a><br><sub>1976|9 · Racked-WBS-M460</sub></td></tr>
 </table>
 
-Shared privately on Google Drive (opens after sign-in): [1976|9 · Racked - 1_small](https://drive.google.com/file/d/0B0yR0b5T78SKU2dtdndycW84OGs/view?resourcekey=0-U9qJPAU8YyolF4QoYD6KCw) · [1976|9 · Racked - 2_small](https://drive.google.com/file/d/0B0yR0b5T78SKamNpNHFCbDh5bWc/view?resourcekey=0-rLwjEE-r2hRgkjsjLhVKCA) · [1976|9 · Racked - 3_small](https://drive.google.com/file/d/0B0yR0b5T78SKVmVEd3hpX0VzWDA/view?resourcekey=0-VrNZkbB7HFDIfdZlDizWsA) · [1976|9 · Racked - 4_small](https://drive.google.com/file/d/0B0yR0b5T78SKbDYtTzVkejNmdzQ/view?resourcekey=0-7cDqJzW1eEC11LcYgQMW7Q) · [1976|9 · Racked - 5_small](https://drive.google.com/file/d/0B0yR0b5T78SKZWcyU2JzQUhoZXc/view?resourcekey=0-k9t8NlYjpmOrfiKWSXUMsg) · [1976|9 · Racked - 6_small](https://drive.google.com/file/d/0B0yR0b5T78SKWVJ1djY4Yl92NHc/view?resourcekey=0-LPuqdY1iINCLvNRbHZzWfw) · [1976|9 · Racked - 7_small](https://drive.google.com/file/d/0B0yR0b5T78SKaEhTakdTMVNSR1k/view?resourcekey=0-gWm5JGbVvWuORNQeKbGsAg) · [1976|9 · Racked - 8_small](https://drive.google.com/file/d/0B0yR0b5T78SKblo0Y3FxMmlhTHM/view?resourcekey=0-O5nzXl1cHHIl8JxWkJeopg)
-
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
 Not on Google Drive yet: `1985 - 460-03-032 - SWITCH MTG. SPLINT BRKT - DRN DRG - ENG PA - ISS 2.jpg`
-
-## 3-D model
-
-[`MECHANICAL/M460.stl`](MECHANICAL/M460.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M460)
-
-- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (assumed: 1.6" x 7" x 6.5", the common module)
-- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M460 - front panel.svg`)
-- no drawing of the front panel: the panel is blank
-- Made by `tools/module_models.py` (→ `MECHANICAL/M460.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -76,6 +65,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 460-02-028 - INPUT MODULE SCHEMATIC (SHEET 2 OF 2) - ISS 1.kicad_sch](KICAD/19xx%20-%20460-02-028%20-%20INPUT%20MODULE%20SCHEMATIC%20(SHEET%202%20OF%202)%20-%20ISS%201.kicad_sch)
 - [19xx - 460-02-028.kicad_sch](KICAD/19xx%20-%20460-02-028.kicad_sch)
 - [M460.kicad_sym](KICAD/M460.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
