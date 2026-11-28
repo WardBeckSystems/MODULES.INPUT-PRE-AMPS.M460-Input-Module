@@ -4,13 +4,12 @@ Ward-Beck Systems M460, 1976|9. Wiki page: [M460 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 57 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 8 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 4 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 17 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 13 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 56 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 7 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 3 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 16 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 33 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -33,13 +32,18 @@ _Photographs of the module itself: front, back, inside, racked._
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
-Not on Google Drive yet: `1985 - 460-03-032 - SWITCH MTG. SPLINT BRKT - DRN DRG - ENG PA - ISS 2.jpg`
+## 3-D model
+
+[`MECHANICAL/M460.stl`](MECHANICAL/M460.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M460)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (assumed: 1.6" x 7" x 6.5", the common module)
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M460 - front panel.svg`)
+- no drawing of the front panel: the panel is blank
+- Made by `tools/module_models.py` (→ `MECHANICAL/M460.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
-
-Not on Google Drive yet: `1976 - 460-01-003 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN DNM - ISS 2.jpg`, `1980 - 460-01-010 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN VINCE - ISS 1.jpg`, `19xx - 460-01-003.jpg`, `19xx - 460-01-028 - INPUT MODULE FUNCTIONAL DIAGRAM - ISS 1 (2).jpg`, `19xx - 460-01-028 - INPUT MODULE FUNCTIONAL DIAGRAM - ISS 1.jpg`, `19xx - 460-02-028 (2).jpg`, `19xx - 460-02-028 - INPUT MODULE SCHEMATIC (SHEET 1 OF 2) - ISS 1 (2).jpg`, `19xx - 460-02-028 - INPUT MODULE SCHEMATIC (SHEET 1 OF 2) - ISS 1.jpg`, `19xx - 460-02-028 - INPUT MODULE SCHEMATIC (SHEET 2 OF 2) - ISS 1 (2).jpg`, `19xx - 460-02-028 - INPUT MODULE SCHEMATIC (SHEET 2 OF 2) - ISS 1.jpg`, `19xx - 460-02-028.jpg`, `19xx - 460-06-028 - INPUT MODULE COMPONENT LAYOUT - ISS 1 (2).jpg`, `19xx - 460-06-028 - INPUT MODULE COMPONENT LAYOUT - ISS 1.jpg`, `19xx - 460-06-028.jpg`
 
 ## Manuals and documents
 
@@ -65,7 +69,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 460-02-028 - INPUT MODULE SCHEMATIC (SHEET 2 OF 2) - ISS 1.kicad_sch](KICAD/19xx%20-%20460-02-028%20-%20INPUT%20MODULE%20SCHEMATIC%20(SHEET%202%20OF%202)%20-%20ISS%201.kicad_sch)
 - [19xx - 460-02-028.kicad_sch](KICAD/19xx%20-%20460-02-028.kicad_sch)
 - [M460.kicad_sym](KICAD/M460.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
