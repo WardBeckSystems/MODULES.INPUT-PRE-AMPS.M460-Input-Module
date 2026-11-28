@@ -1,5 +1,5 @@
 # 19xx - 460-02-028 - INPUT MODULE SCHEMATIC (SHEET 1 OF 2) - ISS 1 (2).jpg
-Wiki page: [M460](../../../../PAGES/M460.md)
+Wiki page: [M460](../)
 
 
 - **Year:** unknown (title block (read by eye))

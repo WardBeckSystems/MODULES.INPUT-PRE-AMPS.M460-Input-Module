@@ -1,5 +1,5 @@
 # 1980 - 460-01-010 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN VINCE - ISS 1.jpg
-Wiki page: [M460](../../../../PAGES/M460.md)
+Wiki page: [M460](../)
 
 
 - **Year:** 1980 (title block date)

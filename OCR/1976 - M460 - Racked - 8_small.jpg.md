@@ -1,5 +1,5 @@
 # 1976 - M460 - Racked - 8_small.jpg
-Wiki page: [M460](../../../../PAGES/M460.md)
+Wiki page: [M460](../)
 
 
 - **Year:** 1976 (module estimate (labelled))

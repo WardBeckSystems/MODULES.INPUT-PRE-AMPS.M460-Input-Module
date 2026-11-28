@@ -1,5 +1,5 @@
 # 1976 - 460-01-003 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN DNM - ISS 2.jpg
-Wiki page: [M460](../../../../PAGES/M460.md)
+Wiki page: [M460](../)
 
 
 - **Year:** 1976 (title block date)

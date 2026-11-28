@@ -1,5 +1,5 @@
 # 19xx - 460-06-028 - INPUT MODULE COMPONENT LAYOUT - ISS 1.jpg
-Wiki page: [M460](../../../../PAGES/M460.md)
+Wiki page: [M460](../)
 
 
 - **Year:** unknown (title block (read by eye))
